@@ -7,7 +7,12 @@
 <title>HTML LIST</title>
 </head>
 <body>
+
     <h2>WELCOME</h2>
+    <h7>NAME-RITESH LAXMAN PATIL</h7>
+    <h7>;ROLL NO-59</h7>
+
+    <h3>ORDERED LIST</h3>
     <h5>LIST OF COMMISSIONED RANKS IN AN INDIAN ARMY</h5>
 
     <ul>
@@ -52,5 +57,58 @@
         <li>ADMIRAL</li>
         <li>ADMIRAL OF THE FLEET</li>
     </ul>
+
+
+    <h3>UNORDERED LIST</h3>
+    <h5> INDIAN AIR FORCE RANKS</h5>
+<ul>
+    <li>Flying Officer</li>
+    <li>Flight Lieutenant</li>
+    <li>Squadron Leader</li>
+    <li>Wing Commander</li>
+    <li>Group Captain</li>
+    <li>Air Commodore</li>
+    <li>Air Vice Marshal</li>
+    <li>Air Marshal</li>
+    <li>Air Chief Marshal</li>
+    <li>Marshal of the Air Force</li>
+</ul>
+  
+   <h3>NESTED LIST</h3>
+   <h5> INDIAN ARMED FORCES RANKS</h5>
+<ul>
+    <li>Indian Army
+        <ol>
+            <li>Lieutenant</li>
+            <li>Captain</li>
+            <li>Major</li>
+            <li>Colonel</li>
+            <li>General</li>
+        </ol>
+    </li>
+
+    <li>Indian Air Force
+        <ol>
+            <li>Flying Officer</li>
+            <li>Flight Lieutenant</li>
+            <li>Squadron Leader</li>
+            <li>Wing Commander</li>
+            <li>Air Chief Marshal</li>
+        </ol>
+    </li>
+
+    <li>Indian Navy
+        <ol>
+            <li>Sub Lieutenant</li>
+            <li>Lieutenant</li>
+            <li>Commander</li>
+            <li>Captain</li>
+            <li>Admiral</li>
+        </ol>
+    </li>
+</ul>
+
+
     </body>
     </html>
+
