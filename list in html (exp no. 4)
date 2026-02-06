@@ -1,3 +1,4 @@
+
 <! DOCTYPE html>
 < html lang="en">
 <head>
@@ -10,7 +11,7 @@
 
     <h2>WELCOME</h2>
     <h7>NAME-RITESH LAXMAN PATIL</h7>
-    <h7>;ROLL NO-59</h7>
+    <h7>ROLL NO-59</h7>
 
     <h3>ORDERED LIST</h3>
     <h5>LIST OF COMMISSIONED RANKS IN AN INDIAN ARMY</h5>
@@ -108,7 +109,31 @@
     </li>
 </ul>
 
+<h3>DESCRIPTIVE LIST</h3>
+<h5>INDIAN ARMED FORCES</h5>
+
+<dl>
+    <dt>Indian Army</dt>
+    <dd>
+        The Indian Army is the land-based branch of the Indian Armed Forces.
+        It is responsible for protecting the nation’s land borders and
+        maintaining internal security.
+    </dd>
+
+    <dt>Indian Air Force</dt>
+    <dd>
+        The Indian Air Force is the air arm of the Indian Armed Forces.
+        Its primary role is to secure Indian airspace and conduct aerial warfare.
+    </dd>
+
+    <dt>Indian Navy</dt>
+    <dd>
+        The Indian Navy is the naval branch of the Indian Armed Forces.
+        It safeguards Indias maritime borders and ensures security in the Indian Ocean.
+    </dd>
+</dl>
+
+
 
     </body>
     </html>
-
