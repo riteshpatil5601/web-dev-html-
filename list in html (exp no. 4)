@@ -1,0 +1,56 @@
+<! DOCTYPE html>
+< html lang="en">
+<head>
+    meta charset="UTF-8"
+    meta name="viewpoint"
+    content="width=device-width , initial-scale=1.0">
+<title>HTML LIST</title>
+</head>
+<body>
+    <h2>WELCOME</h2>
+    <h5>LIST OF COMMISSIONED RANKS IN AN INDIAN ARMY</h5>
+
+    <ul>
+        <li>LIEUTENANT</li>
+        <li>CAPTAIN</li>
+        <li>MAJOR</li>
+        <li>LIEUTENANT COLONEL</li>
+        <li>COLONEL</li>
+        <li>BRIGADIER</li>
+        <li>MAJOR GENERAL</li>
+        <li>LIEUTENANT GENERAL</li>
+        <li>GENERAL</li>
+        <li>FIELD MARSHAL</li>
+    </ul>
+    
+    <h5>LIST OF COMMISSIONED RANKS IN AN INDIAN AIRFORCE</h5>
+
+    <ul>
+        <li>FLYING OFFICER</li>
+        <li>FLIGHT LIEUTENANT</li>
+        <li>SQUADRON LEADER</li>
+        <li>WING COMMANDER</li>
+        <li>GROUP CAPTAIN</li>
+        <li>AIR COMMODORE</li>
+        <li>AIR VICE MARSHAL</li>
+        <li>AIR MARSHAL</li>
+        <li>AIR CHIEF MARSHAL</li>
+        <li>MARSHAL OF THE AIR FORCE</li>
+    </ul>
+
+    <h5>LIST OF COMMISSIONED RANKS IN AN INDIAN NAVY</h5>
+    
+    <ul>
+        <li>SUB LIEUTENANT</li>
+        <li>LIEUTENANT</li>
+        <li>LIEUTENANT COMMANDER</li>
+        <li>COMMANDER</li>
+        <li>CAPTAIN</li>
+        <li>COMMODORE</li>
+        <li>REAR ADMIRAL</li>
+        <li>VICE ADMIRAL</li>
+        <li>ADMIRAL</li>
+        <li>ADMIRAL OF THE FLEET</li>
+    </ul>
+    </body>
+    </html>
