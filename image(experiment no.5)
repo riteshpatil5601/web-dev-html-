@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Image </title>
+     <h4>NAME - RITESH LAXMAN PATIL</h4>
+        <h4>ROLL NO - 59</h4>
+        <h4>DIVISION - A(CSE)</h4>
+</head>
+<body>
+
+    <h2>MOUNTAIN RANGE</h2>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg"
+         alt="Mountain Image"
+         width="400">
+
+</body>
+</html>
